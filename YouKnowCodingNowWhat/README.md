@@ -4,7 +4,7 @@
 
 Want to build a project to improve your skills, but not sure how to get started? Here's how.
 
-This talk balances considering personal goals, choosing a project to work on, and the actual mechanics of how I built a select set of features for a prototype that eventually became [Metro Map Maker](https://metromapmaker.com)
+This talk balances considering personal goals, choosing a project to work on, and the actual mechanics of how I built a select set of features for a prototype that eventually became [Metro Map Maker](https://metromapmaker.com).
 
 ### Audience
 
