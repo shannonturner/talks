@@ -1,4 +1,4 @@
-## How to draw an Owl (How I built [MetroMapMaker.com](https://metromapmaker.com))
+## You know the fundamentals of coding. Now what?
 
 ### Description
 
