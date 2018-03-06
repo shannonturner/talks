@@ -1,6 +1,6 @@
 ## Talks I'd love to give
 
-I'm commonly invited to speak about diversity and inclusion and my experience in building Hear Me Code, but I would love to present these talks as well! 
+I'm commonly invited to speak about diversity and inclusion and my experience in building Hear Me Code, but I would love to present these talks more often!
 
 To see my full portfolio and contact information, visit [https://shannonvturner.com/](https://shannonvturner.com/)
 
@@ -12,7 +12,7 @@ To see my full portfolio and contact information, visit [https://shannonvturner.
 
 > Learn the most practical, impactful steps to take to safeguard your computer and accounts online.
 
-### [How to draw an Owl (How I built MetroMapMaker.com)](HowToDrawAnOwl/)
+### [You know the fundamentals of coding. Now what?](YouKnowCodingNowWhat/)
 
 > Want to build a project to improve your skills, but not sure how to get started? Here's how.
 
