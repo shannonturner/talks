@@ -15,3 +15,7 @@ While this talk does show some HTML, CSS, and Javascript to illustrate prototypi
 ### Length
 
 45 minutes
+
+### I gave this talk at
+* [The Joy of Programming DC](https://www.meetup.com/Joy-of-Programming-DC/) (2018)
+* [Refresh DC](https://refresh-dc.org/) (2018)
