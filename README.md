@@ -4,6 +4,10 @@ I'm commonly invited to speak about diversity and inclusion and my experience in
 
 To see my full portfolio and contact information, visit [https://shannonvturner.com/](https://shannonvturner.com/)
 
+### [You're an Expert. Here's how to Teach Like One](YoureAnExpert/)
+
+> Knowing how to code and being able to teach it are two separate skills. Learn (or re-learn!) how to teach and discover practical examples you can put to work right away.
+
 ### [Yes, you need a portfolio](YesYouNeedAPortfolio/)
 
 > Having a personal website can help you connect with prospective employers and the community. Learn how to build one that helps you showcase your talents.
