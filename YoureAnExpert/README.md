@@ -21,5 +21,5 @@ No previous teaching experience is required, but this talk can benefit anyone wh
 30 minutes
 
 ### I gave this talk at
-* [PyCon 2018](https://www.youtube.com/watch?v=3m555yWTaNI) (2018)
-* [Mid-Atlantic Developer Conference](https://www.middevcon.com/) (Upcoming - July 2018)
+* [PyCon US](https://www.youtube.com/watch?v=3m555yWTaNI) (2018)
+* [Mid-Atlantic Developer Conference](https://www.middevcon.com/) (2018)
